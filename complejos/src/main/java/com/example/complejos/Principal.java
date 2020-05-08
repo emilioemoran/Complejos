@@ -7,5 +7,8 @@ class Principal {
         w = new ComplejoAmpliado(-1.2, -3.0);
         z.suma(w);
         System.out.println("Complejo: " + z.toString());
+        System.out.println("Complejo: " + z.toString());
+        System.out.println("Complejo: " + z.toString());
+
     }
 }
